@@ -15,5 +15,6 @@ The platform also maintains an apache Derby database to store user and poll info
 Work Breakdown: 
 
 Web development		   : Luyi Yang & Juncheng Chen
+
 Database development : Jinyun Mu & Juncheng Chen
 
