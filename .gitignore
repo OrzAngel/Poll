@@ -1,0 +1,9 @@
+# Compiled class file
+/build
+*.class
+
+### macOS ###
+*.DS_Store
+.AppleDouble
+.LSOverride
+
