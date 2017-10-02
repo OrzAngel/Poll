@@ -4,7 +4,7 @@ A Java dynamic web application that provides users a platform to launch and fill
 
 Team Members: Juncheng Chen, Jinyun Mu, Luyi Yang
 
-Primary Functions: 
+## Primary Functions: 
 
 - give users convenient access to the processed poll results by displaying histogram charts
 - generate recommended polls for each user based on his or her habits
@@ -12,7 +12,7 @@ Primary Functions:
 
 The platform also maintains an apache Derby database to store user and poll information.
 
-Work Breakdown: 
+## Work Breakdown: 
 
 Web development		   : Luyi Yang & Juncheng Chen
 
